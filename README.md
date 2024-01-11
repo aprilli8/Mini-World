@@ -1,4 +1,5 @@
 # Mini-World
+
 In this project, I created a modeling of a small world where objects in the scene can be observed and controlled through different first and third person camera perspectives. Written in C++ based on a codebase built on OpenGL.
 
 Camera 1: OrbitCamera 
