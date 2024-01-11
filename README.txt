@@ -1,5 +1,5 @@
-Mini-World:
-A modeling of a small world where objects in the scene can be observed and controlled through different first and third person camera perspectives. Written in C++ based on a codebase built on OpenGL.
+# Mini-World
+In this project, I created a modeling of a small world where objects in the scene can be observed and controlled through different first and third person camera perspectives. Written in C++ based on a codebase built on OpenGL.
 
 Camera 1: OrbitCamera 
 It always points at the world origin and offers a third person perspective of the scene.
